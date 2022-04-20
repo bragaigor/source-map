@@ -11,7 +11,7 @@ npm install source-map
 npm install webpack webpack-cli --save-dev
 ```
 
-#### 1. 
+#### 1. Clone the repo and initialize the node project if you haven't done already:
 ```
 git clone 
 cd source-map
