@@ -1,0 +1,30 @@
+{
+  "name": "source_maps",
+  "version": "1.0.0",
+  "description": "## This project tries to educate on how to use/generate Source Maps for better debugging.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Braga",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "source-map": "^0.7.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "main": "source_map.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bragaigor/source-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bragaigor/source-map/issues"
+  },
+  "homepage": "https://github.com/bragaigor/source-map#readme"
+}
