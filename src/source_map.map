@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "file": "main.js",
+    "mappings": ";AAAA,BBBB",
+    "sources": [
+        "path/test.js", 
+        "path/test2.js"
+    ],
+    "sourcesContent": [
+        "var a = \\\\\\\"Hello\\\\\\\";\\\\n  console.log(a)",
+        "var b = \\\\\\\"World\\\\\\\";\\\\n  console.log(b)"
+    ],
+    "names": ["someVariable", "ignite", "rocket"],
+    "sourceRoot": ""
+}
